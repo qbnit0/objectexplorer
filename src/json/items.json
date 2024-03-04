@@ -1,0 +1,10 @@
+{
+    "": [
+        {"title": "Link to URL", "url": "https://example.com/"},
+        {"title": "Example subsection", "url": "#example-subsection"},
+        {"title": "Internal static link", "url": "static/example.txt"}
+    ],
+    "example-subsection": [
+        {"title": "Subsection link", "url": "https://example.org/"}
+    ]
+}
